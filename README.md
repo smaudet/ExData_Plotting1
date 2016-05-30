@@ -1,3 +1,14 @@
+PLEASE NOTE!
+
+you can run all the plots at once if you wish with 
+
+```R
+runPlots.R
+```
+
+Most of the code is implemented inside of common.R, however it *does* follow the 
+instructions asking for there to be a plot1.R, plot2.R, etc.
+
 ## Introduction
 
 This assignment uses data from
